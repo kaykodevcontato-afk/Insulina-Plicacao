@@ -1,7 +1,9 @@
-INSULINA CUIDADO — PROJETO HTML
+INSULINA CUIDADO - PROJETO COMPLETO
 
-Abra insulina_cuidado.html em um navegador atualizado.
-O projeto é um arquivo HTML único, com os recursos de interface, CSS e JavaScript integrados.
-Vídeos do YouTube, mapas e consultas externas exigem internet.
-Os registros são armazenados localmente no navegador. Utilize a função de backup do próprio aplicativo para preservar os dados; o ZIP contém o projeto, não os dados gravados no navegador.
-O sistema é um apoio ao registro e não substitui orientação profissional para aplicação de insulina.
+Abra insulina_cuidado.html no navegador.
+
+Funcionalidades: pacientes (incluindo tipo de diabetes), aplicadores, aplicações, consultas, locais SUS, vídeos educativos, relatórios e backup JSON.
+
+Os dados são guardados no armazenamento local do navegador; use o backup regularmente. O arquivo ZIP não contém registros pessoais do usuário.
+
+As opções de tipo de diabetes são para registro do diagnóstico informado pela equipe de saúde, não para autodiagnóstico.
